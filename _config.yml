@@ -1,0 +1,9 @@
+exclude: [
+    '.sass_cache',
+    'node_modules',
+    'src',
+    'Gruntfile.js',
+    'package.json',
+    'README.md'
+]
+keep_files:  ['.git', '.svn', 'assets']
